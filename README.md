@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Nghia!
-- 👀 I’m interested in Analog IC Design, guitar, music.
-- 🌱 I’m currently learning Computer Engineering. That is my major.
-- 💞️ I’m looking to collaborate on Basic Analog IC Design (Op-amp, ADC/ DAC, VCO & PLL, LDO, ...) and guitar :).
-- 📫 How to reach me: here or Facebook, Instagram.
-- ⚡ Fun fact: I'm a dynamic, funny and friendly person. Glad to see you!
+------------------------------------------------------------------------
+                          
+Hi, I'm Nghia. I'm a fresher with a strong interest in Analog IC Design. I have solid knowledge in basic electric circuits, CMOS devices and common analog building blocks. I’m eager to contribute to the IC industry and to continuously learn from experienced engineers. My goal is to build a long-term career in Analog IC Design.
 
+------------------------------------------------------------------------
 
+- Email: voxduynghiax@gmail.com
+- LinkedIn: https://www.linkedin.com/in/voduynghia/
+- Youtube: https://www.youtube.com/@vdn0608
+
+------------------------------------------------------------------------
